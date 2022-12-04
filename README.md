@@ -4,7 +4,7 @@
 
 > [WindarM BOT](https://discord.gg/dKESRJ2XTY)
 
-> [Kaynak](https://github.com/itshoozi)
+> [Kaynak Sahibi](https://github.com/itshoozi)
 
 > 📊▸ Sponsorluk,reklam ve BOT Yaptırmak için;
 
